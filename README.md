@@ -1,6 +1,6 @@
 DNN and CNN classification models of dual A1/A2A ARs antagonists
 =============
-##Requirements
+## Requirements
 
 This software has been tested on Linux with GTX 1080Ti GPUs. We think it should work with other linux-based setups quite easily.
  
@@ -12,10 +12,10 @@ Prerequisites include:
 
 ## General Usage
 
-Generate extended connectivity fingerprint 4 (dnn_fingerprints.py)
-Generate neural fingerprint (cnn_fingerprints.py)
-Train and test DNN model (DNN.py)
-Train and test CNN model (CNN.py)
+Generate extended connectivity fingerprint 4 (dnn_fingerprints.py)<br>
+Generate neural fingerprint (cnn_fingerprints.py)<br>
+Train and test DNN model (DNN.py)<br>
+Train and test CNN model (CNN.py)<br>
 
 ## Bugs, Errors, Improvements, etc…
 
