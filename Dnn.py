@@ -27,7 +27,7 @@ import lasagneModelsFingerprints
 expr_filename= '/data/home/jianping/Desktop/adenosine/input_data.csv'
 #and the name of the fingerprints
 #fingerprint_filename = '/home/jianping/Desktop/wangmukuo/Dual_antagonist/A1/fingerprint/train/druglike_control_fingerprints_2048.csv'
-fingerprint_filename = '/data/home/jianping/Desktop/adenosine/dnn/output/fingerprint/cnn_fingerprints_2048.csv'
+fingerprint_filename = '/data/home/jianping/Desktop/adenosine/dnn/output/fingerprint/dnn_fingerprints_2048.csv'
 #then get all the hyperparameters as well
 batch_size = 250
 learning_rate = 0.001
